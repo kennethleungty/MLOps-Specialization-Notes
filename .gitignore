@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Exclude Word documents
+*.doc
+*.docx
+
 # C extensions
 *.so
 
