@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Exclude Word documents
+# Exclude Word and PPTx documents
+*.ppt
+*.pptx
 *.doc
 *.docx
 
