@@ -15,3 +15,6 @@ Course 1: Notes completed ✅
 Course 2: In Progress  
 Course 3: Pending  
 Course 4: Official course not released on Coursera yet  
+
+#### Feedback/Suggestions
+- Feel free to reach out to me on LinkedIn (https://www.linkedin.com/in/kennethleungty/)  
