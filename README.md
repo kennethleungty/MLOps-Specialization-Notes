@@ -12,8 +12,8 @@ Course 2: Coming Soon (Aug/Sep 2021)
 
 #### Status
 Course 1: Notes completed ✅   
-Course 2: In Progress  
-Course 3: Pending  
+Course 2: Notes completed ✅  
+Course 3: In Progress
 Course 4: Official course not yet released on Coursera
 
 #### Feedback/Suggestions
