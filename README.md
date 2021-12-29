@@ -8,7 +8,8 @@
 
 #### Summary Articles
 Course 1: https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752    
-Course 2: Coming Soon (Aug/Sep 2021)
+Course 2: https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-2-13af51e22d90
+Course 3: Coming Soon (Jan/Feb 2022)
 
 #### Status
 Course 1: Notes completed ✅   
@@ -17,4 +18,4 @@ Course 3: In Progress (Week 1 & 2 uploaded, Weeks 3-5 pending)
 Course 4: Official course not yet released on Coursera
 
 #### Feedback/Suggestions
-- Please feel free to reach out to me on LinkedIn (https://www.linkedin.com/in/kennethleungty/)  
+- Please feel free to reach out to me on LinkedIn (linkedin.com/in/kennethleungty/)  
