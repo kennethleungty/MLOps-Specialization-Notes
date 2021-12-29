@@ -18,4 +18,4 @@ Course 3: In Progress (Week 1 & 2 uploaded, Weeks 3-5 pending)
 Course 4: Official course not yet released on Coursera
 
 #### Feedback/Suggestions
-- Please feel free to reach out to me on LinkedIn (linkedin.com/in/kennethleungty/)  
+- Please feel free to reach out to me on LinkedIn (https://linkedin.com/in/kennethleungty/)  
