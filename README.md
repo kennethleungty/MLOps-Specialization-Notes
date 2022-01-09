@@ -14,7 +14,7 @@ Course 3: Coming Soon (Jan/Feb 2022)
 #### Status
 Course 1: Notes completed ✅   
 Course 2: Notes completed ✅  
-Course 3: In Progress (Week 1 & 2 uploaded, Weeks 3-5 pending)  
+Course 3: In Progress (Weeks 1-4 already uploaded, Week 5 pending)  
 Course 4: Official course not yet released on Coursera
 
 #### Feedback/Suggestions
