@@ -11,7 +11,7 @@ ___
 Course 1: Notes completed ✅   
 Course 2: Notes completed ✅  
 Course 3: Notes completed ✅   
-Course 4: In Progress (target release: Mar 2022)
+Course 4: In Progress (target completion: Mar 2022)
 ___
 
 ### Summary Articles
