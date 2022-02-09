@@ -4,7 +4,7 @@
 
 - Notes compilation based on lecture slides and video transcripts
 - More notes on the way, so star ★ this repo to stay in the loop
-- Link to MLOps course: https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/
+- Link to course: https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/
 
 ___
 ### Status
