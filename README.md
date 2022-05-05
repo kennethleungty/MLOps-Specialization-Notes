@@ -3,7 +3,6 @@
 ### Lesson Notes for Machine Learning Engineering in Production (MLOps) Specialization course (by DeepLearningAI and Andrew Ng) on Coursera
 
 - Notes compilation based on lecture slides and video transcripts
-- More notes on the way, so star ★ this repo to stay in the loop
 - Link to course: https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/
 
 Course 1: Introduction to Machine Learning in Production  
