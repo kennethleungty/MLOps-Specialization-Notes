@@ -1,4 +1,4 @@
-# MLOps Specialization Course (DeepLearning.AI) Notes
+# Coursera MLOps Specialization Course (DeepLearning.AI) Notes
 
 ### Lesson Notes for Machine Learning Engineering in Production (MLOps) Specialization course (by DeepLearningAI and Andrew Ng) on Coursera
 
